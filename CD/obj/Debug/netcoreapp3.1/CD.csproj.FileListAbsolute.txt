@@ -1,0 +1,13 @@
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD.deps.json
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD.runtimeconfig.json
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD.runtimeconfig.dev.json
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD.dll
+/home/emilarebrink/Documents/programmering/CD/bin/Debug/netcoreapp3.1/CD.pdb
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.csprojAssemblyReference.cache
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.AssemblyInfoInputs.cache
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.AssemblyInfo.cs
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.csproj.CoreCompileInputs.cache
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.dll
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.pdb
+/home/emilarebrink/Documents/programmering/CD/obj/Debug/netcoreapp3.1/CD.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.csprojAssemblyReference.cache
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.AssemblyInfoInputs.cache
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.AssemblyInfo.cs
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.csproj.CoreCompileInputs.cache
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2.deps.json
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2.runtimeconfig.json
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2.runtimeconfig.dev.json
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2.dll
+/home/emilarebrink/Documents/programmering/upgift2/bin/Debug/netcoreapp3.1/upgift2.pdb
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.dll
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.pdb
+/home/emilarebrink/Documents/programmering/upgift2/obj/Debug/netcoreapp3.1/upgift2.genruntimeconfig.cache
