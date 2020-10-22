@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape3D", "Shape3D\Shape3D.csproj", "{A236D819-31A7-4AFF-A6A9-79E8072B079F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A236D819-31A7-4AFF-A6A9-79E8072B079F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A236D819-31A7-4AFF-A6A9-79E8072B079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A236D819-31A7-4AFF-A6A9-79E8072B079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A236D819-31A7-4AFF-A6A9-79E8072B079F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FCE71B-BE8B-4859-B752-D3A3B4846521}
+	EndGlobalSection
+EndGlobal

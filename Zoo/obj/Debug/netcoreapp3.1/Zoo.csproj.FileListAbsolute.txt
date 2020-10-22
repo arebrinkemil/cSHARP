@@ -24,3 +24,16 @@
 /home/emilarebrink/Documents/programmering/Zoo/bin/Debug/netcoreapp3.1/Zoo.dll
 /home/emilarebrink/Documents/programmering/Zoo/bin/Debug/netcoreapp3.1/Zoo.pdb
 /home/emilarebrink/Documents/programmering/Zoo/obj/Debug/netcoreapp3.1/Zoo.genruntimeconfig.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\emila\Documents\c# programmering\cSHARP\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

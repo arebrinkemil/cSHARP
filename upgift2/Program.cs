@@ -1,57 +1,93 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
-namespace upgift2
+namespace SHAPE3D
 {
-  
-
-    class Database
-    {
-
-    }
-
     interface Shape3D
+
     {
-        public double GetArea();
-        //public double GetVolume();
-        //
-        void animalSound();
-        
+
+        double GetArea();
+
+
+
+        double GetVolume();
+
+
+
+        void ToString();
+
     }
 
-    class Sphere : Shape3D
-    {
-       /*public double GetArea()
-        {
-            return -1;
-        }
-       public double GetVolume()
-        {
-            return -1;
-        }*/
 
-         public double GetArea() 
-    {
-      // The body of animalSound() is provided here
-      Console.WriteLine("The pig says: wee wee");
-    }
-    }
-
-   
-
-
-
-      class Program
-    {
-        static void Main(string[] args)
-        {
-            
-             Sphere object = new Sphere();  // Create a Pig object
-            object.GetArea();
     
+
+
+
+
+class Database
+
+    {
+
+        List<Shape3D> shapes = new List<Shape3D>();
+
+
+
+        public void Print()
+
+        {
+
+            foreach (Shape3D shape in shapes)
+
+            {
+
+                Console.WriteLine(shape.GetType().Name);
+
+                shape.ToString();
+
+                Console.WriteLine("Area: " + shape.GetArea());
+
+                Console.WriteLine("Volym: " + shape.GetVolume());
+
+            }
+
         }
+
+
+
+        public void AdShape(Shape3D shape)
+
+        {
+
+            shapes.Add(shape);
+
+        }
+
     }
 
 
+
+
+
+    class Program
+
+    {
+
+        static void Main(string[] args)
+
+        {
+
+            Database mindatabas = new Database();
+
+      
+
+            mindatabas.AdShape(new Cylinder(4, 6.0));
+
+
+            mindatabas.Print();
+
+        }
+
+    }
 }
+
