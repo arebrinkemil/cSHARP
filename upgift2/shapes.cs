@@ -9,10 +9,7 @@ namespace SHAPE3D
 
     {
 
-        public double radius;
-
-
-
+        public double radien;
         public double height;
 
 
@@ -20,10 +17,8 @@ namespace SHAPE3D
         public Cylinder(double r, double h)
 
         {
-
-            radius = r;
-
             height = h;
+            radien = r;
 
         }
 
@@ -31,31 +26,79 @@ namespace SHAPE3D
 
         {
 
-            return 2 * Math.PI * radius * height + 2 * Math.PI * radius * radius;
+            return 2 * Math.PI * radien * height + 2 * Math.PI * radien * radien;
 
         }
 
+         public double GetVolume()
+
+         {
+
+             return radien * radien * Math.PI * height;
+         }
 
 
+
+
+    }
+
+
+    class Cube : Shape3D
+
+    {
+
+        public double langd;
+
+        public Cube(double sida)
+        {
+            langd = sida;
+        }
+        public double GetArea()
+        {
+            return (langd * langd) * 6;
+        }
         public double GetVolume()
-
         {
-
-            return Math.PI * (radius * radius) * height;
-
+            return  Math.Pow(langd, 3);
         }
 
 
 
-        public void ToString()
+
+    }
+
+
+
+    class Sphere : Shape3D
+
+    {
+
+        public double radien;
+        
+
+        public Sphere(double r)
+
+        {
+           
+            radien = r;
+
+        }
+
+        public double GetArea()
 
         {
 
-            Console.WriteLine("Radien: " + radius);
-
-            Console.WriteLine("Höjd: " + height);
+            return 4 * Math.PI * Math.Pow(radien, 2);
 
         }
+
+         public double GetVolume()
+
+         {
+
+             return 4.0 / 3 * Math.PI * Math.Pow(radien, 3);
+         }
+
 
 
 

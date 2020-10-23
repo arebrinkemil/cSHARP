@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\emila\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\emila\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "/home/emilarebrink/.dotnet/store/|arch|/|tfm|",
+      "/home/emilarebrink/.nuget/packages"
     ]
   }
 }

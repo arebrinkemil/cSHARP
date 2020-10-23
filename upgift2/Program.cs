@@ -9,14 +9,9 @@ namespace SHAPE3D
 
         double GetArea();
 
+       double GetVolume();
 
-
-        double GetVolume();
-
-
-
-        void ToString();
-
+        
     }
 
 
@@ -29,39 +24,31 @@ class Database
 
     {
 
-        List<Shape3D> shapes = new List<Shape3D>();
+   List<Shape3D> shapes = new List<Shape3D>();
+       
 
 
 
-        public void Print()
-
-        {
-
-            foreach (Shape3D shape in shapes)
-
-            {
-
-                Console.WriteLine(shape.GetType().Name);
-
-                shape.ToString();
-
-                Console.WriteLine("Area: " + shape.GetArea());
-
-                Console.WriteLine("Volym: " + shape.GetVolume());
-
-            }
-
-        }
-
-
-
-        public void AdShape(Shape3D shape)
+         public void AdShape(Shape3D shape)
 
         {
 
             shapes.Add(shape);
 
         }
+
+
+        public void Print()
+        {
+            foreach (Shape3D shape in shapes)
+            {
+                Console.WriteLine(shape.GetType().Name);
+                Console.WriteLine("AREAN " + shape.GetArea());
+                Console.WriteLine("VOLYMEN " + shape.GetVolume() + "\n");
+            }
+        }
+
+      
 
     }
 
@@ -77,14 +64,24 @@ class Database
 
         {
 
-            Database mindatabas = new Database();
+            Database former = new Database();
 
       
 
-            mindatabas.AdShape(new Cylinder(4, 6.0));
+            former.AdShape(new Cylinder(4, 6.0));
+            former.AdShape(new Cylinder(2.4, 6.6));
+            former.AdShape(new Cylinder(4.5, 3.0));
+
+            former.AdShape(new Cube(4.0));
+            former.AdShape(new Cube(5.0));
+            former.AdShape(new Cube(10.0));
+
+            former.AdShape(new Sphere(2.4));
+            former.AdShape(new Sphere(4.5));
 
 
-            mindatabas.Print();
+
+            former.Print();
 
         }
 
