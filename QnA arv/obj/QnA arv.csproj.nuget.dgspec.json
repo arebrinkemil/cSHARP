@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/emilarebrink/Documents/C#/QnA arv/QnA arv.csproj": {}
+  },
+  "projects": {
+    "/home/emilarebrink/Documents/C#/QnA arv/QnA arv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/emilarebrink/Documents/C#/QnA arv/QnA arv.csproj",
+        "projectName": "QnA arv",
+        "projectPath": "/home/emilarebrink/Documents/C#/QnA arv/QnA arv.csproj",
+        "packagesPath": "/home/emilarebrink/.nuget/packages/",
+        "outputPath": "/home/emilarebrink/Documents/C#/QnA arv/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/emilarebrink/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

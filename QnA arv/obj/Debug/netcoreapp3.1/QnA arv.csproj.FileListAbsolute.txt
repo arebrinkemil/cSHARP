@@ -1,0 +1,13 @@
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv.deps.json
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv.runtimeconfig.json
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv.runtimeconfig.dev.json
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv.dll
+/home/emilarebrink/Documents/C#/QnA arv/bin/Debug/netcoreapp3.1/QnA arv.pdb
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.csprojAssemblyReference.cache
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.AssemblyInfoInputs.cache
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.AssemblyInfo.cs
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.csproj.CoreCompileInputs.cache
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.dll
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.pdb
+/home/emilarebrink/Documents/C#/QnA arv/obj/Debug/netcoreapp3.1/QnA arv.genruntimeconfig.cache
