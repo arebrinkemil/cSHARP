@@ -1,0 +1,13 @@
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.csprojAssemblyReference.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.AssemblyInfoInputs.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.AssemblyInfo.cs
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.exe
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.deps.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.runtimeconfig.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.runtimeconfig.dev.json
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.dll
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\bin\Debug\netcoreapp3.1\Anstalldupg.pdb
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.dll
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.pdb
+C:\Users\emila\Documents\c# programmering\cSHARP\Anstalldupg\obj\Debug\netcoreapp3.1\Anstalldupg.genruntimeconfig.cache
