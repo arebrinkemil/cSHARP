@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfDemoNestedStackPanel"
         mc:Ignorable="d"
-        Title="Demo Nested StackPanel" Height="700" Width="1400">
+        Title="Demo Nested StackPanel" Height="900" Width="1400">
     <StackPanel>
         <!-- Settings -->
         <!-- set fontsize to 40 on all controlls -->
@@ -50,6 +50,9 @@
         </StackPanel>
         <StackPanel>
             <TextBlock Name="points" Text="pointsen" Visibility="Hidden"/>
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Name="text"  />
         </StackPanel>
 
     </StackPanel>

@@ -17,3 +17,22 @@ C:\Users\emila\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.cspr
 C:\Users\emila\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
 C:\Users\emila\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
 C:\Users\emila\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\emila\Documents\GitHub\cSHARP\Frågesport gui filhantering\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache

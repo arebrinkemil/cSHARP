@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
+using Path = System.IO.Path;
 
 namespace WpfDemoNestedStackPanel
 {
@@ -24,16 +26,21 @@ namespace WpfDemoNestedStackPanel
        List<Questions12> fragor = new List<Questions12>();
         int nummer = 0;
         int pointsen = 0;
+        private string fileName = "fragor.txt";
+        private string pathAndFileName;
         public MainWindow()
         {
             InitializeComponent();
+            string docPath =
+              Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            pathAndFileName = Path.Combine(docPath, fileName);
 
-            fragor.Add(new QuestionText("Vad heter Norges huvudstad?", "Oslo"));
-            fragor.Add(new QuestionText("Vad heter sveriges huvudstad?", "Stockholm"));
-            fragor.Add(new QuestionText("Vad heter sveriges näst största stad?", "Göteborg"));
-            fragor.Add(new QuestionText("Vad heter Egyptens huvudstad?", "Kairo"));
-            fragor.Add(new QuestionText("Vad heter Spaniens huvudstad?", "Madrid"));
-            fragor.Add(new QuestionText("Vad heter Islands huvudstad?", "Reykjavik"));
+            text.Text = pathAndFileName;
+            ReadFile();
+
+
+           
+            
      
 
             fragan.Text = fragor[nummer].Question;
@@ -86,6 +93,33 @@ namespace WpfDemoNestedStackPanel
                 output.Text = String.Empty;
             }
 
+        }
+
+
+        private void ReadFile()
+        {
+            try
+            {
+                // Open the text file using a stream reader.
+                using (var sr = new StreamReader(pathAndFileName))
+                {
+                    // Read the stream as a string, and write the string to the console.
+                    
+                    String question = sr.ReadLine();
+                    String answer = sr.ReadLine();
+
+                    while(question != null && answer != null)
+                    {
+                        fragor.Add(new QuestionText(question, answer));
+                        question = sr.ReadLine();
+                        answer = sr.ReadLine();
+                    }
+                }
+            }
+            catch (IOException e)
+            {
+                output.Text = "The file could not be read:" + e.Message;
+            }
         }
     }
 

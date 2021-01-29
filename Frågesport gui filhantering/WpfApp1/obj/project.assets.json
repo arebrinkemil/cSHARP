@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui filhantering\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui filhantering\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\emila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Users\\emila\\Documents\\GitHub\\cSHARP\\Frågesport gui filhantering\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emila\\AppData\\Roaming\\NuGet\\NuGet.Config",
