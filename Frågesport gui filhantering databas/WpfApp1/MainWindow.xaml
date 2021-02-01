@@ -1,0 +1,59 @@
+﻿<Window x:Class="WpfDemoNestedStackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDemoNestedStackPanel"
+        mc:Ignorable="d"
+        Title="Demo Nested StackPanel" Height="900" Width="1400">
+    <StackPanel>
+        <!-- Settings -->
+        <!-- set fontsize to 40 on all controlls -->
+        <StackPanel.Resources>
+            <Style TargetType="TextBlock" >
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="Margin" Value="20" />
+            </Style>
+            <Style TargetType="TextBox">
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="Margin" Value="20" />
+            </Style>
+            <Style TargetType="PasswordBox">
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="Margin" Value="20" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="Margin" Value="20" />
+            </Style>
+        </StackPanel.Resources>
+
+        <!-- Content -->
+        <StackPanel>
+            <TextBlock Text="Frågesport" TextAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Name="fragan" Text="Demo output" />
+                <!-- 
+                TODO
+                Får inte till placeholder text 
+                Vill också byta Width mot fyll utrymmet
+                -->
+                <TextBox Name="answer" Width="500" />
+            </StackPanel>
+        </StackPanel>
+       
+
+        <Button Name="svara" Content="svara" Click="answer_Click" />
+        <Button Name="next" Content="next" Click="next_Click" IsEnabled="True" />
+        <StackPanel>
+            <TextBlock Name="output"  />
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Name="points" Text="pointsen" Visibility="Hidden"/>
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Name="text"  />
+        </StackPanel>
+
+    </StackPanel>
+</Window>
