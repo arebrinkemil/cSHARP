@@ -26,8 +26,11 @@ namespace WpfDemoNestedStackPanel
        List<Questions12> fragor = new List<Questions12>();
         int nummer = 0;
         int pointsen = 0;
-        private string fileName = "fragor.txt";
-        private string pathAndFileName;
+
+        private string dbName = "sqlite.db";
+        private string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+       
         public MainWindow()
         {
             InitializeComponent();
@@ -44,6 +47,11 @@ namespace WpfDemoNestedStackPanel
      
 
             fragan.Text = fragor[nummer].Question;
+        }
+
+        public string GetPathAndDbName()
+        {
+            return Path.Combine(docPath, dbName); ;
         }
 
         private void answer_Click(object sender, RoutedEventArgs e)
